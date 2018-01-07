@@ -3,4 +3,3 @@ def plus_two(num)
 	return index
 	binding.pry
 end
-puts plus_two(3)
